@@ -7,6 +7,6 @@ The "House Price Prediction" project aims to develop a model that can accurately
 # Getting Started
 To run this project locally, follow these steps:
 
-1 Clone the repository
-2 Install the required libraries
-3 Run the app using: streamlit run app.py
+1. Clone the repository
+2. Install the required libraries
+3. Run the app using: streamlit run app.py
